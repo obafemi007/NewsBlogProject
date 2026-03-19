@@ -1,0 +1,3 @@
+*.pem
+.env
+aws_creds.txt
